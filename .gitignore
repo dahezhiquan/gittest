@@ -1,0 +1,6 @@
+# IDEA ignore
+.logs/
+.idea/
+*.sql
+*.ini
+*..htaccess
